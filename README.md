@@ -45,39 +45,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Summit Gear & Adventures</h3>
-      <p>Private database coursework project for a multi-portal outdoor equipment retail website.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-Front%20End-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/PHP-API-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/claude-code-src">claude-code-src</a></h3>
-      <p>TypeScript code assistant exploration and forked development work.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/ScrabbleGame">ScrabbleGame</a></h3>
-      <p>Java project focused on game logic and structured interaction.</p>
-      <p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/ManchesterBaby">ManchesterBaby</a></h3>
-      <p>C systems project simulating the Manchester Baby with an assembler and hardware simulator.</p>
-      <p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" /></p>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Dashboard
 
 <h3 align="center">3D Contribution Map</h3>
