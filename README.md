@@ -80,26 +80,32 @@
 
 ## GitHub Dashboard
 
+<h3 align="center">3D Contribution Map</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiempo0206&theme=vue" alt="Profile details" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution map" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiempo0206&theme=vue" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiempo0206&theme=vue" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiempo0206&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiempo0206&theme=vue" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiempo0206&theme=vue&utcOffset=8" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiempo0206&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiempo0206&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiempo0206&theme=vue-dark&hide_border=true&ring=34D399&fire=F4D35E&currStreakLabel=34D399" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiempo0206&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiempo0206&theme=github_dark&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiempo0206&theme=github-compact&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=F4D35E&area=true" alt="GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com?user=tiempo0206&theme=github-dark-blue&hide_border=true&ring=34D399&fire=F4D35E&currStreakLabel=34D399" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiempo0206&theme=react-dark&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=F4D35E&area=true" alt="GitHub activity graph" />
 </p>
 
 ## Connect
