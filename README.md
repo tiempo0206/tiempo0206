@@ -1,78 +1,38 @@
+<h1 align="center">Hi, I am Tianbo Cao</h1>
+
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Tianbo Cao profile hero" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=780&lines=Computing+Science+Student;Full-stack+Coursework+Builder;LLM+and+AI+Tooling+Learner;HTML+%2B+PHP+%2B+MySQL+Project+Developer" alt="Typing introduction" />
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiempo0206&style=for-the-badge&color=2E8B57" alt="Profile views" />
   <a href="https://github.com/tiempo0206?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Repos-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Coursework-Summit%20Gear-111827?style=for-the-badge&logo=mysql&logoColor=white" alt="Summit Gear coursework" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20%2B%20Web%20Systems-F4D35E?style=for-the-badge&logo=openai&logoColor=111827" alt="Focus LLM and web systems" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20%2B%20Web%20Systems-F4D35E?style=for-the-badge&logo=openai&logoColor=111827" alt="Focus" />
 </p>
 
-## Hello
-
-I am Tianbo Cao, a DIICSU '27 computing science student building course projects, AI tooling experiments, and full-stack web systems.
-
-I care about projects that are concrete enough to run: clear data models, usable interfaces, and code that makes the workflow easier to understand.
+## About Me
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>Now Building</h3>
-      <p><strong>Summit Gear & Adventures</strong></p>
-      <p>A database coursework project for an outdoor equipment shopping website, built with customer, staff, supplier, and admin portals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-Front%20End-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/PHP-API-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
+    <td width="58%" valign="top">
+      <p>I am a DIICSU '27 computing science student based in Changsha, China.</p>
+      <p>I am interested in LLMs, AI-assisted development, practical web systems, and developer tooling.</p>
+      <p>My current coursework project is <strong>Summit Gear & Adventures</strong>, an outdoor equipment shopping website with customer, staff, supplier, and admin portals.</p>
     </td>
-    <td width="45%" valign="top">
-      <h3>Profile Snapshot</h3>
-      <p><strong>Location:</strong> Changsha, China</p>
-      <p><strong>Interests:</strong> LLMs, AI-assisted development, web apps, systems projects</p>
-      <p><strong>Style:</strong> practical builds, clean structure, readable workflows</p>
+    <td width="42%" valign="top">
+      <p><strong>Currently learning</strong></p>
+      <p>Full-stack web workflows, MySQL schema design, PHP APIs, Java/C fundamentals, and AI tooling patterns.</p>
+      <p><strong>Build style</strong></p>
+      <p>Make the data model clear, keep the UI usable, and leave the project easy to explain.</p>
     </td>
   </tr>
 </table>
 
-## Project Gallery
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Summit Gear & Adventures</h3>
-      <p>Private database coursework project for a multi-portal outdoor equipment shopping website.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/claude-code-src">claude-code-src</a></h3>
-      <p>TypeScript code assistant exploration and forked development work.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/ScrabbleGame">ScrabbleGame</a></h3>
-      <p>A Java project focused on implementing game logic and structured interaction.</p>
-      <p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tiempo0206/ManchesterBaby">ManchesterBaby</a></h3>
-      <p>A C systems project simulating the Manchester Baby with an assembler and hardware simulator.</p>
-      <p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" /></p>
-    </td>
-  </tr>
-</table>
-
-## Toolbox
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
@@ -85,16 +45,66 @@ I care about projects that are concrete enough to run: clear data models, usable
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub Activity
+## Featured Work
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiempo0206&show_icons=true&theme=vue-dark&hide_border=true&title_color=34D399&icon_color=34D399" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiempo0206&layout=compact&theme=vue-dark&hide_border=true&title_color=34D399" alt="Top languages" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Summit Gear & Adventures</h3>
+      <p>Private database coursework project for a multi-portal outdoor equipment retail website.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-Front%20End-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/PHP-API-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tiempo0206/claude-code-src">claude-code-src</a></h3>
+      <p>TypeScript code assistant exploration and forked development work.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tiempo0206/ScrabbleGame">ScrabbleGame</a></h3>
+      <p>Java project focused on game logic and structured interaction.</p>
+      <p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tiempo0206/ManchesterBaby">ManchesterBaby</a></h3>
+      <p>C systems project simulating the Manchester Baby with an assembler and hardware simulator.</p>
+      <p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" /></p>
+    </td>
+  </tr>
+</table>
+
+## GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiempo0206&theme=vue" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiempo0206&theme=vue" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiempo0206&theme=vue" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiempo0206&theme=vue" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiempo0206&theme=vue&utcOffset=8" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tiempo0206&theme=vue-dark&hide_border=true&ring=34D399&fire=F4D35E&currStreakLabel=34D399" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiempo0206&theme=github-compact&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=F4D35E&area=true" alt="GitHub activity graph" />
 </p>
 
 ## Connect
 
-<p>
+<p align="center">
   <a href="https://github.com/tiempo0206">
     <img src="https://img.shields.io/badge/GitHub-tiempo0206-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
